@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>The AI Agents Bro Podcast</title>
     <link>https://theaiagentsbro.com</link>
@@ -13,21 +13,21 @@
       <itunes:email>admin@theaiagentsbro.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Technology"/>
-    <itunes:image href="https://theaiagentsbro.com/wp-content/uploads/2024/03/logo.png"/>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://theaiagentsbro.com/wp-content/uploads/2024/03/logo.png" />
 
     <item>
       <title>OpenClaw Context Engine — What It Is, Why It Matters, and How To Use It</title>
       <link>https://theaiagentsbro.com/openclaw-guides/openclaw-context-engine/</link>
       <guid isPermaLink="false">theaiagentsbro.com:openclaw-context-engine:2026-03-21</guid>
       <pubDate>Sat, 21 Mar 2026 22:28:14 +0000</pubDate>
-      <description><![CDATA[
+      <description>
 A practical deep dive into OpenClaw’s Context Engine — what it does, how it works, and how to apply it in production.
 
 Website: theaiagentsbro.com
 Original article: https://theaiagentsbro.com/openclaw-guides/openclaw-context-engine/
-]]></description>
-      <enclosure url="https://hrondaneil-cmyk.github.io/podcast-feed/audio/openclaw-context-engine.mp3" type="audio/mpeg" length="6433920"/>
+</description>
+      <enclosure url="https://hrondaneil-cmyk.github.io/podcast-feed/audio/openclaw-context-engine.mp3" type="audio/mpeg" length="6433920" />
       <itunes:summary>A practical deep dive into OpenClaw’s Context Engine — what it does, how it works, and how to apply it in production. Website: theaiagentsbro.com</itunes:summary>
     </item>
 
@@ -36,15 +36,17 @@ Original article: https://theaiagentsbro.com/openclaw-guides/openclaw-context-en
       <link>https://theaiagentsbro.com/openclaw-guides/openclaw-n8n-integration/</link>
       <guid isPermaLink="false">theaiagentsbro.com:openclaw-n8n-integration:2026-03-21</guid>
       <pubDate>Sat, 21 Mar 2026 22:29:43 +0000</pubDate>
-      <description><![CDATA[
+      <description>
 How to integrate OpenClaw with n8n in a way that’s secure, reliable, and scalable — plus practical patterns you can steal.
 
 Website: theaiagentsbro.com
 Original article: https://theaiagentsbro.com/openclaw-guides/openclaw-n8n-integration/
-]]></description>
-      <enclosure url="https://hrondaneil-cmyk.github.io/podcast-feed/audio/openclaw-n8n-integration.mp3" type="audio/mpeg" length="7394880"/>
+</description>
+      <enclosure url="https://hrondaneil-cmyk.github.io/podcast-feed/audio/openclaw-n8n-integration.mp3" type="audio/mpeg" length="7394880" />
       <itunes:summary>How to integrate OpenClaw with n8n in a way that’s secure, reliable, and scalable — plus practical patterns you can steal. Website: theaiagentsbro.com</itunes:summary>
     </item>
 
-  </channel>
+  <item><title>Podcast: Openclaw Ai Agent</title><link>https://theaiagentsbro.com/openclaw-guides/openclaw-ai-agent/</link><description>Deep dive into https://theaiagentsbro.com/openclaw-guides/openclaw-ai-agent/. Brought to you by theaiagentsbro.com 
+
+Original article: https://theaiagentsbro.com/openclaw-guides/openclaw-ai-agent/</description><pubDate>Mon, 23 Mar 2026 13:11:25 +0000</pubDate><enclosure url="https://hrondaneil-cmyk.github.io/podcast-feed/audio/openclaw-ai-agent.mp3" type="audio/mpeg" length="102144" /><itunes:image href="https://api.theaiagentsbro.com/placeholder.jpg" /><itunes:summary>Deep dive into https://theaiagentsbro.com/openclaw-guides/openclaw-ai-agent/. Brought to you by theaiagentsbro.com</itunes:summary></item></channel>
 </rss>
